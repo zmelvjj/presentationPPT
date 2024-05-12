@@ -1,0 +1,17 @@
+#text {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0px;
+    right: 0px;
+}
+
+#documentCSS{
+    position: absolute ;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100vh;
+    z-index: 99;
+}
