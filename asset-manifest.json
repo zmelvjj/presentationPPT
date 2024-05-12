@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/presentationPPT/static/css/main.1d9adf1c.css",
+    "main.js": "/presentationPPT/static/js/main.5c815daa.js",
+    "index.html": "/presentationPPT/index.html",
+    "main.1d9adf1c.css.map": "/presentationPPT/static/css/main.1d9adf1c.css.map",
+    "main.5c815daa.js.map": "/presentationPPT/static/js/main.5c815daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9adf1c.css",
+    "static/js/main.5c815daa.js"
+  ]
+}
