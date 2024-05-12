@@ -1,7 +1,10 @@
 import React from 'react';
-import { render } from 'react-dom';
 import './index.css';
 import App from './App';
 
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <App />
+);
 
-render(<App />,    document.getElementById('root'));
+reportWebVitals();
