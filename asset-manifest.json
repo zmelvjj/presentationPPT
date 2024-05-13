@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/presentationPPT/static/css/main.1d9adf1c.css",
-    "main.js": "/presentationPPT/static/js/main.5c815daa.js",
+    "main.css": "/presentationPPT/static/css/main.d6406c39.css",
+    "main.js": "/presentationPPT/static/js/main.3a148485.js",
+    "static/media/zfn.PNG": "/presentationPPT/static/media/zfn.49d1a723c4d356d46209.PNG",
+    "static/media/talen.PNG": "/presentationPPT/static/media/talen.3a9a5a6b45e4f96d562b.PNG",
     "index.html": "/presentationPPT/index.html",
-    "main.1d9adf1c.css.map": "/presentationPPT/static/css/main.1d9adf1c.css.map",
-    "main.5c815daa.js.map": "/presentationPPT/static/js/main.5c815daa.js.map"
+    "main.d6406c39.css.map": "/presentationPPT/static/css/main.d6406c39.css.map",
+    "main.3a148485.js.map": "/presentationPPT/static/js/main.3a148485.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d9adf1c.css",
-    "static/js/main.5c815daa.js"
+    "static/css/main.d6406c39.css",
+    "static/js/main.3a148485.js"
   ]
 }
