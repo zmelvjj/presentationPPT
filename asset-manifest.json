@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/presentationPPT/static/css/main.d6406c39.css",
-    "main.js": "/presentationPPT/static/js/main.3a148485.js",
+    "main.js": "/presentationPPT/static/js/main.6887169b.js",
+    "static/media/자료2.gif": "/presentationPPT/static/media/자료2.3777c69b4614e2f18175.gif",
+    "static/media/CRISPR-Cas9.PNG": "/presentationPPT/static/media/CRISPR-Cas9.842a69c82742883c43dd.PNG",
     "static/media/zfn.PNG": "/presentationPPT/static/media/zfn.49d1a723c4d356d46209.PNG",
     "static/media/talen.PNG": "/presentationPPT/static/media/talen.3a9a5a6b45e4f96d562b.PNG",
+    "static/media/프라임편집기.PNG": "/presentationPPT/static/media/프라임편집기.6fa4bf5de7b5ee9fbfdc.PNG",
+    "static/media/자료1.PNG": "/presentationPPT/static/media/자료1.ce32dc9bb7b5fdeb740a.PNG",
     "index.html": "/presentationPPT/index.html",
     "main.d6406c39.css.map": "/presentationPPT/static/css/main.d6406c39.css.map",
-    "main.3a148485.js.map": "/presentationPPT/static/js/main.3a148485.js.map"
+    "main.6887169b.js.map": "/presentationPPT/static/js/main.6887169b.js.map"
   },
   "entrypoints": [
     "static/css/main.d6406c39.css",
-    "static/js/main.3a148485.js"
+    "static/js/main.6887169b.js"
   ]
 }
